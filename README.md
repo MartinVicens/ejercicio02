@@ -1,2 +1,2 @@
-# ejercicio01
-Ejercicio 01 alumno Martin Vicens
+# ejercicio02
+Ejercicio 02 alumno Martin Vicens
