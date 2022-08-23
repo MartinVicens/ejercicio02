@@ -41,7 +41,6 @@ if( categoria == 1 || categoria == 2 || categoria == 3) {
                     sueldo *= 2.5;
                     break;
                     default: alert("algo hizo mal");
-sueldo = 0;
     }
 
     if(sueldo){
